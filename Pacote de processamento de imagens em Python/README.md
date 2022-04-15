@@ -29,7 +29,7 @@ pip install img_processing_hg
 
 ```python
 from img_processing_hg import combination
-combination()
+combination.transfer_histogram()
 ```
 
 ## Author
